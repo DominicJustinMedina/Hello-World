@@ -1,0 +1,5 @@
+print("Name: Dominic Justin H. Medina")
+print("Course/Year/Section: BIT23")
+print("Age: 20")
+print("Address: Dasmarinas, Cavite")
+print("Hobby/Interests: Computer games, Sports")
